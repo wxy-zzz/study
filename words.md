@@ -1,1 +1,2 @@
 - MVP (Minimum Viable Product): 実用最小限の製品
+- ポートフォリオ: 資産構成 ([ref](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA_(%E9%87%91%E8%9E%8D)))
