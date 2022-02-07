@@ -1,1 +1,3 @@
 - MVP (Minimum Viable Product): 実用最小限の製品
+- サプライチェーン: *製品の原材料・部品の調達から、製造、在庫管理、配送、販売、消費までの全体の一連の流れのこと*（[ref](https://www.daiwabutsuryu.co.jp/useful/words/supply-chain)）
+- スティッキネス (stickiness, 粘着性): *ユーザーがそのサービスにいかに惹きつけられ、熱中しているかを表す状態のこと*（[ref](https://makitani.net/shimauma/stickiness)）
