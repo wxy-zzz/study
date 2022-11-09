@@ -1,3 +1,6 @@
+# Words
+
+- CPA (Cost per Acquisition): 顧客獲得単価（[ref](https://webtan.impress.co.jp/g/cpa)）
 - MVP (Minimum Viable Product): 実用最小限の製品
 - コンピテンシー: *優れた成果を創出する個人の能力・行動特性のこと*（[ref](https://www.nri.com/jp/knowledge/glossary/lst/ka/comptency)）
 - サプライチェーン: *製品の原材料・部品の調達から、製造、在庫管理、配送、販売、消費までの全体の一連の流れのこと*（[ref](https://www.daiwabutsuryu.co.jp/useful/words/supply-chain)）
