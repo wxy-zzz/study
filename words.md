@@ -1,3 +1,27 @@
+# Words
+
+- CPA (Cost per Acquisition): 顧客獲得単価（[ref](https://webtan.impress.co.jp/g/cpa)）
+- JIT (Just-In-Time) コンパイラ: *ソフトウェアの実行時にソースコードをコンパイルするコンパイラのこと*（[ref](https://ja.wikipedia.org/wiki/%E5%AE%9F%E8%A1%8C%E6%99%82%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9)）
+- MBO (**M**anagement **b**uy**o**ut): *経営陣による自社の買収*（[ref](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%83%BB%E3%83%90%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88)）
+- MFA (**M**ulti-**F**actor **A**uthentication): *本人確認のための要素を複数、ユーザーに要求する認証方式*（[ref](https://www.nec-solutioninnovators.co.jp/ss/insider/security-words/21.html)）
 - MVP (Minimum Viable Product): 実用最小限の製品
+- ORM (**O**bject-**r**elational **m**apping, オブジェクト関係マッピング): *データベースとオブジェクト指向プログラミング言語の間の非互換なデータを変換するプログラミング技法*（[ref](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E9%96%A2%E4%BF%82%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0)）
+- PBL (**P**roblem-**B**ased **L**earning): 課題解決型学習（[ref](https://ja.wikipedia.org/wiki/%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA%E5%AD%A6%E7%BF%92)）
+- インポスター症候群: *自分の達成を内面的に肯定できず、自分は詐欺師であると感じる傾向*（[ref](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4)）
+- エコーチェンバー現象: *自分の意見や思想が肯定されることで、それらが正解であるかのごとく勘違いする、又は価値観の似た者同士で交流・共感し合うことにより、特定の意見や思想が増幅する現象。*（[ref](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B3%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%83%90%E3%83%BC%E7%8F%BE%E8%B1%A1)）
+- エディプスコンプレックス: *母親を手に入れようと思い、また父親に対して強い対抗心を抱くという、幼児期においておこる現実の状況に対するアンビバレントな心理の抑圧のこと*（[ref](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%87%E3%82%A3%E3%83%97%E3%82%B9%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9)）
+- 禁忌: *忌み嫌って、慣習的に禁止したり避けたりすること*（[ref](https://dictionary.goo.ne.jp/word/%E7%A6%81%E5%BF%8C/)）
+- グレシャムの法則: *貨幣の額面価値と実質価値に乖離が生じた場合、より実質価値の高い貨幣が流通過程から駆逐され、より実質価値の低い貨幣が流通するという金本位制の経済学の法則のひとつ。「**悪貨は良貨を駆逐する**」*（[ref](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B7%E3%83%A3%E3%83%A0%E3%81%AE%E6%B3%95%E5%89%87)）
+- 拘泥（こうでい）: *こだわること*（[ref](https://dictionary.goo.ne.jp/word/%E6%8B%98%E6%B3%A5/)）
+- コンピテンシー: *優れた成果を創出する個人の能力・行動特性のこと*（[ref](https://www.nri.com/jp/knowledge/glossary/lst/ka/comptency)）
 - サプライチェーン: *製品の原材料・部品の調達から、製造、在庫管理、配送、販売、消費までの全体の一連の流れのこと*（[ref](https://www.daiwabutsuryu.co.jp/useful/words/supply-chain)）
+- 「地獄への道は善意で舗装されている」: *悪事または悪意は善意によって隠されているものだ、あるいは、善意でなされた行為であったとしてもその実行により意図せざる結果が招かれる、という意味のことわざ*（[ref](https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%8D%84%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AF%E5%96%84%E6%84%8F%E3%81%A7%E8%88%97%E8%A3%85%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B)）
 - スティッキネス (stickiness, 粘着性): *ユーザーがそのサービスにいかに惹きつけられ、熱中しているかを表す状態のこと*（[ref](https://makitani.net/shimauma/stickiness)）
+- ダニング=クルーガー効果: *能力や専門性や経験の低い人は自分の能力を過大評価する傾向がある、という認知バイアスについての仮説*（[ref](https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%83%B3%E3%82%B0%EF%BC%9D%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%BC%E5%8A%B9%E6%9E%9C)）
+- 平仄（ひょうそく）: *つじつま。筋道。*（[ref](https://kotobank.jp/word/%E5%B9%B3%E4%BB%84-121352)）
+- プロ驚き屋: *SNSでChatGPTなどの最先端ツールやテクノロジーを、神・最強・ヤバすぎ、のような誇張表現を使って興奮気味に紹介し、時折それを自分にとって都合の良いように選んだ２、３個の成功例に基づいて、妄想や行き過ぎた主張を交えながら行う人*（[ref](https://takashionary.com/ja/pro-odorokiya-meaning/)）
+- ムーアの法則: 大規模集積回路（LSI IC）の製造・生産における長期傾向についての将来予測で、「集積回路あたりの部品数が 2 年ごとに 2 倍になる」という予測。（[ref](https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%BC%E3%82%A2%E3%81%AE%E6%B3%95%E5%89%87)）
+- モメンタム: *勢い*（[ref](https://dictionary.goo.ne.jp/word/%E3%83%A2%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%A0/)）
+- 友愛数 (親和数): *異なる 2 つの自然数の組で、自分自身を除いた約数の和が互いに他方と等しくなるような数*（[ref](https://ja.wikipedia.org/wiki/%E5%8F%8B%E6%84%9B%E6%95%B0)）
+- リスコフの置換原則: *オブジェクト指向プログラミングにおいて、サブタイプのオブジェクトはスーパータイプのオブジェクトの仕様に従わなければならない、という原則*（[ref](https://ja.m.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%82%B3%E3%83%95%E3%81%AE%E7%BD%AE%E6%8F%9B%E5%8E%9F%E5%89%87)）
+- ラパリサード: *自明の理、わかりきったこと、当然そうなること*（[ref](https://www.ne.jp/asahi/music/marinkyo/parolo/laparissade.html.ja)）
