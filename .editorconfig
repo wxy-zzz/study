@@ -2,12 +2,12 @@
 root = true
 
 [*]
-indent_style = space
-indent_size = 2
+indent_style = space # インデントスタイル
+indent_size = 2 # インデント幅
 end_of_line = lf # 改行コード
 charset = utf-8 # 文字コード
-trim_trailing_whitespace = true
-insert_final_newline = true
+trim_trailing_whitespace = true # 行末の空白を削除
+insert_final_newline = true # 最終行に改行を入れる
 
 [*.md]
 trim_trailing_whitespace = false
