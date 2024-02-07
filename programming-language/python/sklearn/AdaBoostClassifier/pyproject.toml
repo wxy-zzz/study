@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "adaboost"
+version = "0.1.0"
+description = ""
+authors = ["WADA Yusuke <catcher_in_the_dance_hall@yahoo.co.jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+scikit-learn = "^1.4.0"
+pandas = "^2.2.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
