@@ -2,6 +2,7 @@
 
 - ADHD (注意欠如・多動症): *発達水準からみて不相応に注意を持続させることが困難であったり、順序立てて行動することが苦手であったり、落ち着きがない、待てない、行動の抑制が困難であるなどといった特徴が持続的に認められ、そのために日常生活に困難が起こっている状態*（[ref](https://www.ncnp.go.jp/hospital/patient/disease07.html)）
 - ASD (自閉スペクトラム症): 相手の考えていることを読み取ったり、自分の考えを伝えたりすることが不得手である、特定のことに強い興味や関心を持っていたり、こだわり行動があるといったことによって特徴付けられる発達障害の一つ（[ref](https://www.ncnp.go.jp/hospital/patient/disease06.html)）
+- BDR (**B**usiness **D**evelopment **R**epresentative): *新規開拓の役割を担うインサイドセールス手法のこと*（[ref](https://www.smbc.co.jp/hojin/magazine/sales/about-bdr.html)）
 - CPA (Cost per Acquisition): 顧客獲得単価（[ref](https://webtan.impress.co.jp/g/cpa)）
 - HARKing: *「結果が判明したあとに仮説を作る」 (**h**ypothesizing **a**fter the **r**esults are **k**nown) という疑わしい研究慣行*（[ref](https://ja.wikipedia.org/wiki/HARKing)）
 - JIT (Just-In-Time) コンパイラ: *ソフトウェアの実行時にソースコードをコンパイルするコンパイラのこと*（[ref](https://ja.wikipedia.org/wiki/%E5%AE%9F%E8%A1%8C%E6%99%82%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9)）
