@@ -8,10 +8,13 @@
 - JTC: *伝統的な日本の大企業 (**J**apanese **T**raditional **C**ompany) を略したネットスラング*（[ref](https://www.asahi.com/articles/ASQ5D6SN1Q5BULEI002.html)）
 - MBO (**M**anagement **b**uy**o**ut): *経営陣による自社の買収*（[ref](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%83%BB%E3%83%90%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88)）
 - MFA (**M**ulti-**F**actor **A**uthentication): *本人確認のための要素を複数、ユーザーに要求する認証方式*（[ref](https://www.nec-solutioninnovators.co.jp/ss/insider/security-words/21.html)）
+- MQL (**M**arketing **Q**ualified **L**ead): *マーケティング部門が創出した有望なリード*（[ref](https://www.nttcoms.com/service/b2b_marketing/glossary/mql/)）
 - MVP (Minimum Viable Product): 実用最小限の製品
 - ORM (**O**bject-**r**elational **m**apping, オブジェクト関係マッピング): *データベースとオブジェクト指向プログラミング言語の間の非互換なデータを変換するプログラミング技法*（[ref](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E9%96%A2%E4%BF%82%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0)）
 - PBL (**P**roblem-**B**ased **L**earning): 課題解決型学習（[ref](https://ja.wikipedia.org/wiki/%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA%E5%AD%A6%E7%BF%92)）
 - PSR (**P**rice to **S**ales **R**atio, 株価売上高倍率): *時価総額を年間売上高で割ったもの*（[ref](https://www.nomura.co.jp/terms/english/p/psr.html)）
+- SMB (**S**mall and **M**edium **B**usiness): = SME
+- SME (**S**mall and **M**edium **E**nterprise): 中小企業（[ref](https://e-words.jp/w/SME.html)）
 - アップセル: *顧客の単価を向上させる取り組みなどのこと*（[ref](https://www.ntt.com/bizon/glossary/j-a/upsell.html)）
 - インポスター症候群: *自分の達成を内面的に肯定できず、自分は詐欺師であると感じる傾向*（[ref](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4)）
 - エコーチェンバー現象: *自分の意見や思想が肯定されることで、それらが正解であるかのごとく勘違いする、又は価値観の似た者同士で交流・共感し合うことにより、特定の意見や思想が増幅する現象。*（[ref](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B3%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%83%90%E3%83%BC%E7%8F%BE%E8%B1%A1)）
@@ -24,15 +27,23 @@
 - 拘泥（こうでい）: *こだわること*（[ref](https://dictionary.goo.ne.jp/word/%E6%8B%98%E6%B3%A5/)）
 - コンピテンシー: *優れた成果を創出する個人の能力・行動特性のこと*（[ref](https://www.nri.com/jp/knowledge/glossary/lst/ka/comptency)）
 - サプライチェーン: *製品の原材料・部品の調達から、製造、在庫管理、配送、販売、消費までの全体の一連の流れのこと*（[ref](https://www.daiwabutsuryu.co.jp/useful/words/supply-chain)）
+- サムの息子法: *犯罪者が自らの事件の暴露で得た収入は被害者救済に充てなければならないとする法律*（[ref](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%81%AE%E6%81%AF%E5%AD%90%E6%B3%95)）
 - 「地獄への道は善意で舗装されている」: *悪事または悪意は善意によって隠されているものだ、あるいは、善意でなされた行為であったとしてもその実行により意図せざる結果が招かれる、という意味のことわざ*（[ref](https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%8D%84%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AF%E5%96%84%E6%84%8F%E3%81%A7%E8%88%97%E8%A3%85%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B)）
 - シットコム（シチュエーション・コメディ）: *激しい動きのドタバタぶりを楽しむスラップスティック・コメディに対し、脚本や演出を重視し、状況（シチュエーション）が生み出す食い違いや不条理さで笑いを誘うコメディのジャンルの一つ。*（[ref](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3)）
 - ジャンプスケア: *ホラー映画やコンピュータゲームでよく用いられる、観客を驚かせ恐がらせることを意図して主に大きな恐ろしい音と共に画像（映像）や出来事を突然変化させるテクニック*（[ref](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B9%E3%82%B1%E3%82%A2)）
 - シンプソンのパラドックス: *母集団での相関と、母集団を分割した集団での相関は、異なっている場合があるという統計学的なパラドックス*（[ref](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9)）
 - スティッキネス (stickiness, 粘着性): *ユーザーがそのサービスにいかに惹きつけられ、熱中しているかを表す状態のこと*（[ref](https://makitani.net/shimauma/stickiness)）
+- 栴檀は双葉より芳し（せんだんはふたばよりかんばし）: *大成する人は幼少のときからすぐれているというたとえ。*（[ref](https://kotobank.jp/word/%E6%A0%B4%E6%AA%80%E3%81%AF%E5%8F%8C%E8%91%89%E3%82%88%E3%82%8A%E8%8A%B3%E3%81%97-550614)）
 - ダニング=クルーガー効果: *能力や専門性や経験の低い人は自分の能力を過大評価する傾向がある、という認知バイアスについての仮説*（[ref](https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%83%B3%E3%82%B0%EF%BC%9D%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%BC%E5%8A%B9%E6%9E%9C)）
+- ツァイガルニク効果: *達成できた事柄より達成できていない事柄・中断している事柄を意識している状態*（[ref](https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A1%E3%82%A4%E3%82%AC%E3%83%AB%E3%83%8B%E3%82%AF%E5%8A%B9%E6%9E%9C)）
 - デカコーン: *企業の価値を示す評価額で100億ドルを超える巨大未上場企業*（[ref](https://www.nikkei4946.com/knowledgebank/selection/detail.aspx?value=1587)）
+- テックタッチ: *テクノロジーを駆使して多数の顧客をサポートする手法*（[ref](https://cs-studio.adish.co.jp/contents/hightouch-lowtouch-tectouch)）
+- デマゴーグ: *刺激的な嘘（デマ）を発信するなどの方法により、人々の行動や考え方に影響を与えようとする政治家*（[ref](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%9E%E3%82%B4%E3%83%BC%E3%82%B0)）
+- 天使の取り分: *ワインやブランデー、ウィスキーなど、その製造工程で熟成を要する酒類において、「熟成中に水分・アルコール分が蒸発し、最終的な製造量が目減りする」こと*（[ref](https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BD%BF%E3%81%AE%E5%8F%96%E3%82%8A%E5%88%86)）
 - トートロジー: *ある事柄を述べるのに、同義語または類語または同語を反復させる修辞技法*（[ref](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%88%E3%83%AD%E3%82%B8%E3%83%BC)）
 - ナラティブ (narrative): *物語*（[ref](https://eow.alc.co.jp/search?q=narrative)）
+- ニライカナイ: *沖縄県や鹿児島県奄美群島の各地に伝わる他界概念のひとつ。遥か遠い東（辰巳の方角）の海の彼方、または海の底、地の底にあるとされる異界。*（[ref](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A9%E3%82%A4%E3%82%AB%E3%83%8A%E3%82%A4)）
+- ノックアウトファクター: *ビジネスやプロジェクトにおいて必ず満たすべき条件や基準*（[ref](https://biz.moneyforward.com/erp/basic/4732/)）
 - ノブレス・オブリージュ: *高い社会的地位には義務が伴うこと*（[ref](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%96%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%96%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%A5)）
 - パーキンソンの法則: 第 1 法則「仕事の量は、完成のために与えられた時間をすべて満たすまで膨張する」第 2 法則「支出の額は、収入の額に達するまで膨張する」からなる、役人の数は、仕事の量とは無関係に増え続けるという法則。（[ref](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3%E3%81%AE%E6%B3%95%E5%89%87)）
 - ハーシャッド数: *自然数の各位の数字和が元の数の約数に含まれている自然数*（[ref](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%83%E3%83%89%E6%95%B0)）
@@ -43,13 +54,15 @@
 - 平仄（ひょうそく）: *つじつま。筋道。*（[ref](https://kotobank.jp/word/%E5%B9%B3%E4%BB%84-121352)）
 - ブルックスの法則: *「遅れているソフトウェアプロジェクトへの要員追加は、プロジェクトをさらに遅らせるだけである」という、ソフトウェア開発のプロジェクトマネジメントに関する法則*（[ref](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)）
 - プロ驚き屋: *SNSでChatGPTなどの最先端ツールやテクノロジーを、神・最強・ヤバすぎ、のような誇張表現を使って興奮気味に紹介し、時折それを自分にとって都合の良いように選んだ２、３個の成功例に基づいて、妄想や行き過ぎた主張を交えながら行う人*（[ref](https://takashionary.com/ja/pro-odorokiya-meaning/)）
-- ホフスタッターの法則: *かなり複雑な作業を完了するためにかかる時間を正確に見積もることができないという、広く経験されている困難さを表現したもの*（[ref](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%95%E3%82%B9%E3%82%BF%E3%83%83%E3%82%BF%E3%83%BC%E3%81%AE%E6%B3%95%E5%89%87)）
+- ホフスタッターの法則: *かなり複雑な作業を完了するためにかかる時間を正確に見積もることができないという、広く経験されている困難さを表現したもの*（[ref](https://ja.wikipedia.org/wiki/s%E3%83%9B%E3%83%95%E3%82%B9%E3%82%BF%E3%83%83%E3%82%BF%E3%83%BC%E3%81%AE%E6%B3%95%E5%89%87)）
 - マーチャンダイジング: *消費者の欲求・要求に適う商品を、適切な数量、適切な価格、適切なタイミング等で提供するための企業活動*（[ref](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%81%E3%83%A3%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0)）
 - マチュリティ (maturity): *成熟（度）*（[ref](https://eow.alc.co.jp/search?q=maturity)）
 - ムーアの法則: 大規模集積回路（LSI IC）の製造・生産における長期傾向についての将来予測で、「集積回路あたりの部品数が 2 年ごとに 2 倍になる」という予測。（[ref](https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%BC%E3%82%A2%E3%81%AE%E6%B3%95%E5%89%87)）
 - 無限の猿の定理: *十分長い時間をかけてランダムに文字列を作り続ければ、どんな文字列もほとんど確実にできあがるという定理*（[ref](https://ja.wikipedia.org/wiki/%E7%84%A1%E9%99%90%E3%81%AE%E7%8C%BF%E5%AE%9A%E7%90%86)）
+- メイの法則: *ソフトウェアの効率は18カ月で半減し、ムーアの法則を相殺する*（[ref](https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%AB%E3%83%88%E3%81%AE%E6%B3%95%E5%89%87)）
 - モメンタム: *勢い*（[ref](https://dictionary.goo.ne.jp/word/%E3%83%A2%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%A0/)）
 - 友愛数 (親和数): *異なる 2 つの自然数の組で、自分自身を除いた約数の和が互いに他方と等しくなるような数*（[ref](https://ja.wikipedia.org/wiki/%E5%8F%8B%E6%84%9B%E6%95%B0)）
+- 善きサマリア人の法: *災難に遭ったり急病になったりした人など（窮地の人）を救うために無償で善意の行動をとった場合、良識的かつ誠実にその人ができることをしたのなら、たとえ失敗しても結果責任を問われない」という趣旨の法*（[ref](https://ja.wikipedia.org/wiki/%E5%96%84%E3%81%8D%E3%82%B5%E3%83%9E%E3%83%AA%E3%82%A2%E4%BA%BA%E3%81%AE%E6%B3%95)）
 - リスコフの置換原則: *オブジェクト指向プログラミングにおいて、サブタイプのオブジェクトはスーパータイプのオブジェクトの仕様に従わなければならない、という原則*（[ref](https://ja.m.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%82%B3%E3%83%95%E3%81%AE%E7%BD%AE%E6%8F%9B%E5%8E%9F%E5%89%87)）
 - ラパリサード: *自明の理、わかりきったこと、当然そうなること*（[ref](https://www.ne.jp/asahi/music/marinkyo/parolo/laparissade.html.ja)）
 - 労働塊（ろうどうかい）の誤謬: *世の中における仕事は一定量しかないという考え方、または、その一定量の仕事を労働者が取り合うしかないという見方を意味する経済学の用語*（[ref](https://ja.wikipedia.org/wiki/%E5%8A%B4%E5%83%8D%E5%A1%8A%E3%81%AE%E8%AA%A4%E8%AC%AC)）
