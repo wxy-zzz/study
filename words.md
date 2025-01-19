@@ -1,8 +1,17 @@
 # Words
 
+- 0ABJ: *0AB-J番号は、日本で使用されている電話番号の形式の一つで、03や06などの市外局番からはじまる10桁の電話番号*（[ref](https://ivry.jp/column/what-0abj/)）
+- ACV (Annual Contract Value): 年間契約額（[ref](https://baremetrics.com/jp/blog/annual-contract-value-acv)）
 - ADHD (注意欠如・多動症): *発達水準からみて不相応に注意を持続させることが困難であったり、順序立てて行動することが苦手であったり、落ち着きがない、待てない、行動の抑制が困難であるなどといった特徴が持続的に認められ、そのために日常生活に困難が起こっている状態*（[ref](https://www.ncnp.go.jp/hospital/patient/disease07.html)）
+- ARPA (Average Revenue per Account): *1アカウントあたりの平均売り上げ*（[ref](https://emotion-tech.co.jp/column/2018/what_is_arpu/)）
+- ARPPU (Average Revenue per Paid User): *課金ユーザー一人あたりの平均課金額*（[ref](https://emotion-tech.co.jp/column/2018/what_is_arpu/)）
+- ARPU (Average Revenue Per User): *1ユーザーあたりの平均的売り上げ*（[ref](https://emotion-tech.co.jp/column/2018/what_is_arpu/)）
 - ASD (自閉スペクトラム症): 相手の考えていることを読み取ったり、自分の考えを伝えたりすることが不得手である、特定のことに強い興味や関心を持っていたり、こだわり行動があるといったことによって特徴付けられる発達障害の一つ（[ref](https://www.ncnp.go.jp/hospital/patient/disease06.html)）
+- BDR (**B**usiness **D**evelopment **R**epresentative): *新規開拓の役割を担うインサイドセールス手法のこと*（[ref](https://www.smbc.co.jp/hojin/magazine/sales/about-bdr.html)）
+- CAC (Customer Acquisition Cost): 顧客獲得単価（[ref](https://faxdm.nexway.co.jp/blog/191)）
+    - 自社サービスの顧客獲得単価を指すことが多い？（[ref](https://faxdm.nexway.co.jp/blog/191)）
 - CPA (Cost per Acquisition): 顧客獲得単価（[ref](https://webtan.impress.co.jp/g/cpa)）
+    - 広告のコンバージョンを指すことが多い？（[ref](https://faxdm.nexway.co.jp/blog/191)）
 - HARKing: *「結果が判明したあとに仮説を作る」 (**h**ypothesizing **a**fter the **r**esults are **k**nown) という疑わしい研究慣行*（[ref](https://ja.wikipedia.org/wiki/HARKing)）
 - JIT (Just-In-Time) コンパイラ: *ソフトウェアの実行時にソースコードをコンパイルするコンパイラのこと*（[ref](https://ja.wikipedia.org/wiki/%E5%AE%9F%E8%A1%8C%E6%99%82%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9)）
 - JTC: *伝統的な日本の大企業 (**J**apanese **T**raditional **C**ompany) を略したネットスラング*（[ref](https://www.asahi.com/articles/ASQ5D6SN1Q5BULEI002.html)）
@@ -25,6 +34,7 @@
 - グレシャムの法則: *貨幣の額面価値と実質価値に乖離が生じた場合、より実質価値の高い貨幣が流通過程から駆逐され、より実質価値の低い貨幣が流通するという金本位制の経済学の法則のひとつ。「**悪貨は良貨を駆逐する**」*（[ref](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B7%E3%83%A3%E3%83%A0%E3%81%AE%E6%B3%95%E5%89%87)）
 - グロタンディーク素数: 57. 57 は素数ではないが、アレクサンドル・グロタンディークが素数の例として誤って挙げたことに由来。（[ref](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AD%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AF#%E9%80%B8%E8%A9%B1)）
 - 拘泥（こうでい）: *こだわること*（[ref](https://dictionary.goo.ne.jp/word/%E6%8B%98%E6%B3%A5/)）
+- コンサバ（コンサバティブ）: *保守的*（[ref](https://www.weblio.jp/content/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%90)）
 - コンピテンシー: *優れた成果を創出する個人の能力・行動特性のこと*（[ref](https://www.nri.com/jp/knowledge/glossary/lst/ka/comptency)）
 - サプライチェーン: *製品の原材料・部品の調達から、製造、在庫管理、配送、販売、消費までの全体の一連の流れのこと*（[ref](https://www.daiwabutsuryu.co.jp/useful/words/supply-chain)）
 - サムの息子法: *犯罪者が自らの事件の暴露で得た収入は被害者救済に充てなければならないとする法律*（[ref](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%81%AE%E6%81%AF%E5%AD%90%E6%B3%95)）
@@ -47,6 +57,7 @@
 - ノブレス・オブリージュ: *高い社会的地位には義務が伴うこと*（[ref](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%96%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%96%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%A5)）
 - パーキンソンの法則: 第 1 法則「仕事の量は、完成のために与えられた時間をすべて満たすまで膨張する」第 2 法則「支出の額は、収入の額に達するまで膨張する」からなる、役人の数は、仕事の量とは無関係に増え続けるという法則。（[ref](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3%E3%81%AE%E6%B3%95%E5%89%87)）
 - ハーシャッド数: *自然数の各位の数字和が元の数の約数に含まれている自然数*（[ref](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%83%E3%83%89%E6%95%B0)）
+- ハイタッチ： *1対1でサポートすること*（[ref](https://cs-studio.adish.co.jp/contents/hightouch-lowtouch-tectouch)）
 - ハインリッヒの法則: *1 つの重大事故の背後には 29 の軽微な事故があり、その背景には 300 の異常（ヒヤリ・ハット）が存在するという労働災害における経験則の一つ。*（[ref](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%83%E3%83%92%E3%81%AE%E6%B3%95%E5%89%87)）
 - バルネラビリティ (vulnerability): もろくて弱い性質のこと。脆弱性。（[ref](https://eow.alc.co.jp/search?q=vulnerability)）
 - ハレーション: *派生して他に影響を及ぼすこと*（[ref](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)）
@@ -54,7 +65,7 @@
 - 平仄（ひょうそく）: *つじつま。筋道。*（[ref](https://kotobank.jp/word/%E5%B9%B3%E4%BB%84-121352)）
 - ブルックスの法則: *「遅れているソフトウェアプロジェクトへの要員追加は、プロジェクトをさらに遅らせるだけである」という、ソフトウェア開発のプロジェクトマネジメントに関する法則*（[ref](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)）
 - プロ驚き屋: *SNSでChatGPTなどの最先端ツールやテクノロジーを、神・最強・ヤバすぎ、のような誇張表現を使って興奮気味に紹介し、時折それを自分にとって都合の良いように選んだ２、３個の成功例に基づいて、妄想や行き過ぎた主張を交えながら行う人*（[ref](https://takashionary.com/ja/pro-odorokiya-meaning/)）
-- ホフスタッターの法則: *かなり複雑な作業を完了するためにかかる時間を正確に見積もることができないという、広く経験されている困難さを表現したもの*（[ref](https://ja.wikipedia.org/wiki/s%E3%83%9B%E3%83%95%E3%82%B9%E3%82%BF%E3%83%83%E3%82%BF%E3%83%BC%E3%81%AE%E6%B3%95%E5%89%87)）
+- ホフスタッターの法則: *かなり複雑な作業を完了するためにかかる時間を正確に見積もることができないという、広く経験されている困難さを表現したもの*（[ref](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%95%E3%82%B9%E3%82%BF%E3%83%83%E3%82%BF%E3%83%BC%E3%81%AE%E6%B3%95%E5%89%87)）
 - マーチャンダイジング: *消費者の欲求・要求に適う商品を、適切な数量、適切な価格、適切なタイミング等で提供するための企業活動*（[ref](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%81%E3%83%A3%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0)）
 - マチュリティ (maturity): *成熟（度）*（[ref](https://eow.alc.co.jp/search?q=maturity)）
 - ムーアの法則: 大規模集積回路（LSI IC）の製造・生産における長期傾向についての将来予測で、「集積回路あたりの部品数が 2 年ごとに 2 倍になる」という予測。（[ref](https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%BC%E3%82%A2%E3%81%AE%E6%B3%95%E5%89%87)）
@@ -65,4 +76,5 @@
 - 善きサマリア人の法: *災難に遭ったり急病になったりした人など（窮地の人）を救うために無償で善意の行動をとった場合、良識的かつ誠実にその人ができることをしたのなら、たとえ失敗しても結果責任を問われない」という趣旨の法*（[ref](https://ja.wikipedia.org/wiki/%E5%96%84%E3%81%8D%E3%82%B5%E3%83%9E%E3%83%AA%E3%82%A2%E4%BA%BA%E3%81%AE%E6%B3%95)）
 - リスコフの置換原則: *オブジェクト指向プログラミングにおいて、サブタイプのオブジェクトはスーパータイプのオブジェクトの仕様に従わなければならない、という原則*（[ref](https://ja.m.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%82%B3%E3%83%95%E3%81%AE%E7%BD%AE%E6%8F%9B%E5%8E%9F%E5%89%87)）
 - ラパリサード: *自明の理、わかりきったこと、当然そうなること*（[ref](https://www.ne.jp/asahi/music/marinkyo/parolo/laparissade.html.ja)）
+- ロータッチ: *複数の顧客を同時にサポートする手法*（[ref](https://cs-studio.adish.co.jp/contents/hightouch-lowtouch-tectouch)）
 - 労働塊（ろうどうかい）の誤謬: *世の中における仕事は一定量しかないという考え方、または、その一定量の仕事を労働者が取り合うしかないという見方を意味する経済学の用語*（[ref](https://ja.wikipedia.org/wiki/%E5%8A%B4%E5%83%8D%E5%A1%8A%E3%81%AE%E8%AA%A4%E8%AC%AC)）
