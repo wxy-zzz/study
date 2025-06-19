@@ -13,6 +13,7 @@
     - 自社サービスの顧客獲得単価を指すことが多い？（[ref](https://faxdm.nexway.co.jp/blog/191)）
 - CPA (Cost per Acquisition): 顧客獲得単価（[ref](https://webtan.impress.co.jp/g/cpa)）
     - 広告のコンバージョンを指すことが多い？（[ref](https://faxdm.nexway.co.jp/blog/191)）
+- CRM (**C**ustomer **R**elationship *M*anagement, 顧客関係管理): *顧客満足度と顧客ロイヤルティの向上を通して、売上の拡大と収益性の向上を目指す経営戦略/手法である*（[ref](https://ja.wikipedia.org/wiki/%E9%A1%A7%E5%AE%A2%E9%96%A2%E4%BF%82%E7%AE%A1%E7%90%86)）
 - HARKing: *「結果が判明したあとに仮説を作る」 (**h**ypothesizing **a**fter the **r**esults are **k**nown) という疑わしい研究慣行*（[ref](https://ja.wikipedia.org/wiki/HARKing)）
 - JIT (Just-In-Time) コンパイラ: *ソフトウェアの実行時にソースコードをコンパイルするコンパイラのこと*（[ref](https://ja.wikipedia.org/wiki/%E5%AE%9F%E8%A1%8C%E6%99%82%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9)）
 - JTC: *伝統的な日本の大企業 (**J**apanese **T**raditional **C**ompany) を略したネットスラング*（[ref](https://www.asahi.com/articles/ASQ5D6SN1Q5BULEI002.html)）
@@ -23,6 +24,8 @@
 - ORM (**O**bject-**r**elational **m**apping, オブジェクト関係マッピング): *データベースとオブジェクト指向プログラミング言語の間の非互換なデータを変換するプログラミング技法*（[ref](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E9%96%A2%E4%BF%82%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0)）
 - PBL (**P**roblem-**B**ased **L**earning): 課題解決型学習（[ref](https://ja.wikipedia.org/wiki/%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA%E5%AD%A6%E7%BF%92)）
 - PSR (**P**rice to **S**ales **R**atio, 株価売上高倍率): *時価総額を年間売上高で割ったもの*（[ref](https://www.nomura.co.jp/terms/english/p/psr.html)）
+- ROAS (**R**eturn **o**n **A**dvertising **S**pend): *広告費に対してどれだけの売上が得られたかを計算する指標*（[ref](https://www.nttcoms.com/service/b2b_marketing/glossary/roas/)）
+- ROI (**R**eturn **o**n **I**nvestment, 投資利益率): *投資額に対してどれだけ利益を生み出しているかを見る尺度*（[ref](https://ja.wikipedia.org/wiki/%E6%8A%95%E8%B3%87%E5%88%A9%E7%9B%8A%E7%8E%87)）
 - SMB (**S**mall and **M**edium **B**usiness): = SME
 - SME (**S**mall and **M**edium **E**nterprise): 中小企業（[ref](https://e-words.jp/w/SME.html)）
 - アップセル: *顧客の単価を向上させる取り組みなどのこと*（[ref](https://www.ntt.com/bizon/glossary/j-a/upsell.html)）
