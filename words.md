@@ -23,11 +23,16 @@
 - MVP (Minimum Viable Product): 実用最小限の製品
 - ORM (**O**bject-**r**elational **m**apping, オブジェクト関係マッピング): *データベースとオブジェクト指向プログラミング言語の間の非互換なデータを変換するプログラミング技法*（[ref](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E9%96%A2%E4%BF%82%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0)）
 - PBL (**P**roblem-**B**ased **L**earning): 課題解決型学習（[ref](https://ja.wikipedia.org/wiki/%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA%E5%AD%A6%E7%BF%92)）
+- PLG, SLG: *2016年、アメリカのOpenViewというベンチャーキャピタルが提唱した成長戦略だと言われてい*る（[ref](https://commune.co.jp/magazine/plg_slg_intro/)）
+    - PLG (Product-Led Growth): *「プロダクトがプロダクトを売る」という事業モデル／成長戦略*
+    - SLG (Sales-Led Growth): *「セールスがプロダクトを売る」という事業モデル／成長戦略*
 - PSR (**P**rice to **S**ales **R**atio, 株価売上高倍率): *時価総額を年間売上高で割ったもの*（[ref](https://www.nomura.co.jp/terms/english/p/psr.html)）
 - ROAS (**R**eturn **o**n **A**dvertising **S**pend): *広告費に対してどれだけの売上が得られたかを計算する指標*（[ref](https://www.nttcoms.com/service/b2b_marketing/glossary/roas/)）
 - ROI (**R**eturn **o**n **I**nvestment, 投資利益率): *投資額に対してどれだけ利益を生み出しているかを見る尺度*（[ref](https://ja.wikipedia.org/wiki/%E6%8A%95%E8%B3%87%E5%88%A9%E7%9B%8A%E7%8E%87)）
+- RPA (**R**obotic **P**rocess **A**utomation): ユーザが作成したアクションリストに基づいて、記録したタスクをGUI上で直接繰り返すことで自動化を実行するようなシステム（[ref](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)）
 - SMB (**S**mall and **M**edium **B**usiness): = SME
 - SME (**S**mall and **M**edium **E**nterprise): 中小企業（[ref](https://e-words.jp/w/SME.html)）
+- SSOT (**s**ingle **s**ource **o**f **t**ruth, 信頼できる唯一の情報源): *情報システムの設計と理論においては、すべてのデータが1か所でのみ作成、あるいは編集されるように、情報モデルと関連するデータスキーマとを構造化する方法*（[ref](https://ja.wikipedia.org/wiki/%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E5%94%AF%E4%B8%80%E3%81%AE%E6%83%85%E5%A0%B1%E6%BA%90)）
 - アップセル: *顧客の単価を向上させる取り組みなどのこと*（[ref](https://www.ntt.com/bizon/glossary/j-a/upsell.html)）
 - インポスター症候群: *自分の達成を内面的に肯定できず、自分は詐欺師であると感じる傾向*（[ref](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4)）
 - エコーチェンバー現象: *自分の意見や思想が肯定されることで、それらが正解であるかのごとく勘違いする、又は価値観の似た者同士で交流・共感し合うことにより、特定の意見や思想が増幅する現象。*（[ref](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B3%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%83%90%E3%83%BC%E7%8F%BE%E8%B1%A1)）
@@ -72,6 +77,10 @@
 - 平仄（ひょうそく）: *つじつま。筋道。*（[ref](https://kotobank.jp/word/%E5%B9%B3%E4%BB%84-121352)）
 - ブルックスの法則: *「遅れているソフトウェアプロジェクトへの要員追加は、プロジェクトをさらに遅らせるだけである」という、ソフトウェア開発のプロジェクトマネジメントに関する法則*（[ref](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)）
 - プロ驚き屋: *SNSでChatGPTなどの最先端ツールやテクノロジーを、神・最強・ヤバすぎ、のような誇張表現を使って興奮気味に紹介し、時折それを自分にとって都合の良いように選んだ２、３個の成功例に基づいて、妄想や行き過ぎた主張を交えながら行う人*（[ref](https://takashionary.com/ja/pro-odorokiya-meaning/)）
+- 平板化（アクセントの平板化）: *もともとは下がり目のあったアクセントが、下がり目のない平板型になったこと*（[ref](https://www.nihongo-appliedlinguistics.net/wp/archives/10543)）
+- ヘンペルのカラス: *「全てのカラスは黒い」という命題を以下のような対偶論法*（[ref](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%9A%E3%83%AB%E3%81%AE%E3%82%AB%E3%83%A9%E3%82%B9)）
+    1. *全称命題「全てのカラスは黒い」という命題はその対偶「全ての黒くないものはカラスでない」と同値である*
+    2. *「全ての黒くないものはカラスでない」という命題は、世界中の黒くないものを順に調べ、それらの中に一つもカラスがないことをチェックすれば証明することができる*
 - ホフスタッターの法則: *かなり複雑な作業を完了するためにかかる時間を正確に見積もることができないという、広く経験されている困難さを表現したもの*（[ref](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%95%E3%82%B9%E3%82%BF%E3%83%83%E3%82%BF%E3%83%BC%E3%81%AE%E6%B3%95%E5%89%87)）
 - マーチャンダイジング: *消費者の欲求・要求に適う商品を、適切な数量、適切な価格、適切なタイミング等で提供するための企業活動*（[ref](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%81%E3%83%A3%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0)）
 - マガーク効果: *音韻知覚が音声の聴覚情報だけで決まるのではなく、話者の口元の映像のような視覚情報など、他の感覚モダリティの情報にも影響を受けること*（[ref](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AC%E3%83%BC%E3%82%AF%E5%8A%B9%E6%9E%9C)）
@@ -82,7 +91,10 @@
 - モメンタム: *勢い*（[ref](https://dictionary.goo.ne.jp/word/%E3%83%A2%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%A0/)）
 - 友愛数 (親和数): *異なる 2 つの自然数の組で、自分自身を除いた約数の和が互いに他方と等しくなるような数*（[ref](https://ja.wikipedia.org/wiki/%E5%8F%8B%E6%84%9B%E6%95%B0)）
 - 善きサマリア人の法: *災難に遭ったり急病になったりした人など（窮地の人）を救うために無償で善意の行動をとった場合、良識的かつ誠実にその人ができることをしたのなら、たとえ失敗しても結果責任を問われない」という趣旨の法*（[ref](https://ja.wikipedia.org/wiki/%E5%96%84%E3%81%8D%E3%82%B5%E3%83%9E%E3%83%AA%E3%82%A2%E4%BA%BA%E3%81%AE%E6%B3%95)）
+- リービッヒの最小律: *植物の生長速度や収量は、必要とされる栄養素のうち、与えられた量のもっとも少ないものにのみ影響されるとする説*（[ref](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%93%E3%83%83%E3%83%92%E3%81%AE%E6%9C%80%E5%B0%8F%E5%BE%8B)）
+    - ドベネックの桶: *リービッヒの最小律を分かりやすく説明するもの*
 - リスコフの置換原則: *オブジェクト指向プログラミングにおいて、サブタイプのオブジェクトはスーパータイプのオブジェクトの仕様に従わなければならない、という原則*（[ref](https://ja.m.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%82%B3%E3%83%95%E3%81%AE%E7%BD%AE%E6%8F%9B%E5%8E%9F%E5%89%87)）
+- リンゲルマン効果: *共同作業をする人数が増えるごとに各個人の作業の貢献度が低下する現象*（[ref](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%B3%E5%8A%B9%E6%9E%9C)）
 - ラパリサード: *自明の理、わかりきったこと、当然そうなること*（[ref](https://www.ne.jp/asahi/music/marinkyo/parolo/laparissade.html.ja)）
 - ロータッチ: *複数の顧客を同時にサポートする手法*（[ref](https://cs-studio.adish.co.jp/contents/hightouch-lowtouch-tectouch)）
 - 労働塊（ろうどうかい）の誤謬: *世の中における仕事は一定量しかないという考え方、または、その一定量の仕事を労働者が取り合うしかないという見方を意味する経済学の用語*（[ref](https://ja.wikipedia.org/wiki/%E5%8A%B4%E5%83%8D%E5%A1%8A%E3%81%AE%E8%AA%A4%E8%AC%AC)）
