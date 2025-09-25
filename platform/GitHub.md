@@ -1,5 +1,14 @@
 # GitHub
 
+## config
+
+好み
+
+```sh
+$ git config --global rebase.autostash true
+$ git config --global pager.branch cat
+```
+
 ## Tools
 
 ### GitHub CLI
