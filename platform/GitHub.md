@@ -1,5 +1,23 @@
 # GitHub
 
+## config
+
+好み
+
+```sh
+$ git config --global rebase.autostash true
+$ git config --global pager.branch cat
+```
+
+## Tools
+
+### GitHub CLI
+
+- <https://docs.github.com/ja/github-cli>
+- extension
+    - [gh-poi](https://github.com/seachicken/gh-poi)
+        - squash merge したブランチを簡単に削除
+
 ## Docs
 
 ### 2023-12-14
@@ -20,3 +38,7 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+## Link
+
+- [github.dev Web ベース エディター](https://docs.github.com/ja/codespaces/the-githubdev-web-based-editor)
