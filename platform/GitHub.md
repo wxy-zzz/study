@@ -14,9 +14,11 @@ $ git config --global pager.branch cat
 ### GitHub CLI
 
 - <https://docs.github.com/ja/github-cli>
-- extension
-    - [gh-poi](https://github.com/seachicken/gh-poi)
-        - squash merge したブランチを簡単に削除
+    - extension
+        - [gh-poi](https://github.com/seachicken/gh-poi)
+            - squash merge したブランチを簡単に削除
+- <https://github.com/suzuki-shunsuke/pinact>
+    - github actions のバージョンを commit hash に展開する。セキュリティ向上意図。
 
 ## Docs
 
