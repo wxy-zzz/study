@@ -16,6 +16,7 @@
 - CPA (Cost per Acquisition): 顧客獲得単価（[ref](https://webtan.impress.co.jp/g/cpa)）
     - 広告のコンバージョンを指すことが多い？（[ref](https://faxdm.nexway.co.jp/blog/191)）
 - CRM (**C**ustomer **R**elationship *M*anagement, 顧客関係管理): *顧客満足度と顧客ロイヤルティの向上を通して、売上の拡大と収益性の向上を目指す経営戦略/手法である*（[ref](https://ja.wikipedia.org/wiki/%E9%A1%A7%E5%AE%A2%E9%96%A2%E4%BF%82%E7%AE%A1%E7%90%86)）
+- FDE (**F**orward **D**eployed **E**ngineer): *顧客と直接連携し、既存のソフトウェアプラットフォームを顧客固有の複雑な課題解決のために設定、カスタマイズ、展開するソフトウェアエンジニアの職種*（[ref](https://zenn.dev/hellorusk/articles/f75f6d41b0a30c)）
 - HARKing: *「結果が判明したあとに仮説を作る」 (**h**ypothesizing **a**fter the **r**esults are **k**nown) という疑わしい研究慣行*（[ref](https://ja.wikipedia.org/wiki/HARKing)）
 - JIT (Just-In-Time) コンパイラ: *ソフトウェアの実行時にソースコードをコンパイルするコンパイラのこと*（[ref](https://ja.wikipedia.org/wiki/%E5%AE%9F%E8%A1%8C%E6%99%82%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9)）
 - JTC: *伝統的な日本の大企業 (**J**apanese **T**raditional **C**ompany) を略したネットスラング*（[ref](https://www.asahi.com/articles/ASQ5D6SN1Q5BULEI002.html)）
